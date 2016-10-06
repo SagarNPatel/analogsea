@@ -15,9 +15,10 @@ img {
 }
 
 h1 {
-	font-size: 25px;
+	font-size: 28px;
 	font-weight: normal;
-	margin-bottom: 50px;
+	margin-bottom: 40px;
+	color: #535454;
 }
 
 .form-sign {
@@ -31,6 +32,8 @@ h1 {
 	padding-right: 40px;
 	padding-left: 40px;
 	background-color: white;
+	border: none;
+	border-radius: 3px;
 
 }
 
